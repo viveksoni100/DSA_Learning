@@ -1,0 +1,16 @@
+What is recursion?
+- a way of solving a problem by having a function calling itself
+- such problems can be solved by an iteration as well
+
+Why do we need a recursion?
+- recursive code is easier to write than iterative one
+- it is used in many popular algorithms such as divide and conquer, dynamic programming, greedy algorithm etc.
+- it is used in tree and graph programs
+
+When to choose recursion?
+- if we can divide a problem into smaller subproblems
+- smaller subproblems should be similar
+
+Properties of a recursive method
+- exit condition from loop
+- should be calling itself
