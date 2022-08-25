@@ -19,3 +19,9 @@ F
 src/tree/TreeMain.java,5/9/59fdca871a338a0ef2c3f3028ffd5f64b10112fa
 H
 src/tree/BinaryTree.java,d/a/da7c2b30d94686e5d40a937cad13d258e30346d1
+G
+src/bst/BinaryNode.java,5/4/5494449f5a6e8ec817bc9c2b88de2ddd6c390cd7
+M
+src/bst/BinarySearchTree.java,b/d/bde5fd06a3112b0cd9e85db500a2234cf1ec5f92
+D
+src/bst/MainBst.java,d/5/d5d27b40a033e5b7bf279c2e6a903d0e154fab0f
