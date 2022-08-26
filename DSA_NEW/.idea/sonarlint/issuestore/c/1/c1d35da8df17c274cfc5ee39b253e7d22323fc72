@@ -1,0 +1,24 @@
+
+D
+java:S10666"/Merge this if statement with the enclosing one.(ÿ•ïZ
+W
+java:S4973/"<Strings and Boxed types should be compared using "equals()".(‹Ğÿ´ùÿÿÿÿ
+W
+java:S49735"<Strings and Boxed types should be compared using "equals()".(ı¯Ú©ıÿÿÿÿ
+R
+java:S4973O"<Strings and Boxed types should be compared using "equals()".(ÿíı¦
+W
+java:S4973c"<Strings and Boxed types should be compared using "equals()".(¹æ¯†úÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(­‹©û
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¹õµ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÍóåÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›€Ñáûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(º¼É°
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Şò‹¬ûÿÿÿÿ
+m
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(’Æ‡ùÿÿÿÿ
+N	java:S106Š"9Replace this use of System.out or System.err by a logger.(‚úÏD

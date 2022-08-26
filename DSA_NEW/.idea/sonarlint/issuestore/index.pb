@@ -25,3 +25,13 @@ M
 src/bst/BinarySearchTree.java,b/d/bde5fd06a3112b0cd9e85db500a2234cf1ec5f92
 D
 src/bst/MainBst.java,d/5/d5d27b40a033e5b7bf279c2e6a903d0e154fab0f
+G
+src/avl/BinaryNode.java,4/3/43de960573f2767f9618ffc75b473163ec5c5277
+D
+src/avl/AVLMain.java,3/a/3aa650c53720fca0d4dbb6fce48bc428786c733f
+@
+src/avl/AVL.java,5/f/5ff527282f0cc3391d0a17c35e29bf16cd2f4b9f
+O
+src/binary/heap/BinaryHeap.java,c/1/c1d35da8df17c274cfc5ee39b253e7d22323fc72
+S
+#src/binary/heap/BinaryHeapMain.java,3/c/3c483dc816633ee156b43fc92308723a29aa3afa

@@ -1,0 +1,22 @@
+
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(î½òª
+Y
+java:S2259Ï"BA "NullPointerException" could be thrown; "node" is nullable here.(õª¹…
+e
+java:S2259Ô"BA "NullPointerException" could be thrown; "node" is nullable here.(Ëß£Ìûÿÿÿÿ8…ËØŸ­0
+`
+java:S2259Ø"BA "NullPointerException" could be thrown; "node" is nullable here.(¾¿Ä‚8†ËØŸ­0
+^
+java:S2259Ë"BA "NullPointerException" could be thrown; "node" is nullable here.(·ùƒüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û€øÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û€øÍ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Û€øÍ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(”´ğR
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(¸Í³‚
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(»ÛºÉşÿÿÿÿ
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÚÅ®‚
+N	java:S106¬"9Replace this use of System.out or System.err by a logger.(ã§›f
+R	java:S125Ä"<This block of commented-out lines of code should be removed.(ÄñÓı
+W	java:S125Ç"<This block of commented-out lines of code should be removed.(”é˜ûÿÿÿÿ
