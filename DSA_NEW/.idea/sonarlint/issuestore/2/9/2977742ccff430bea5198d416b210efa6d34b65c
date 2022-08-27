@@ -1,0 +1,16 @@
+
+b
+java:S1192""GDefine a constant instead of duplicating this literal "Word: " 3 times.(ŒĞí§øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í„ôŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§Åàüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ŒĞí§øÿÿÿÿ
+B
+java:S1125'"'Remove the unnecessary boolean literal.(Ñ™¡ÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ûà€Éÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(äÊƒƒüÿÿÿÿ
+B
+java:S1125D"'Remove the unnecessary boolean literal.(Ñ™¡ÿÿÿÿÿ
+B
+java:S1125I"'Remove the unnecessary boolean literal.(÷ï›£øÿÿÿÿ
+B
+java:S1125R"'Remove the unnecessary boolean literal.(Ÿàî‚üÿÿÿÿ

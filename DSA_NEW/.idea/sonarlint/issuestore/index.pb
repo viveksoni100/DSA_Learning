@@ -35,3 +35,9 @@ O
 src/binary/heap/BinaryHeap.java,c/1/c1d35da8df17c274cfc5ee39b253e7d22323fc72
 S
 #src/binary/heap/BinaryHeapMain.java,3/c/3c483dc816633ee156b43fc92308723a29aa3afa
+F
+src/trie/TrieNode.java,b/7/b7b1c0f84c37cda3ca09b4033f0cebe321d85870
+F
+src/trie/TrieMain.java,e/f/ef988307d7cc48b149d631a7fa4a4f262f65f108
+B
+src/trie/Trie.java,2/9/2977742ccff430bea5198d416b210efa6d34b65c
