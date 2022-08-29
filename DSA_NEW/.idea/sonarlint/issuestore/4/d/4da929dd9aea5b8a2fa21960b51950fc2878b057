@@ -1,0 +1,21 @@
+
+o
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(³ìËù
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(› ÿöûÿÿÿÿ
+}
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "loadFactor".(ù“¾áþÿÿÿÿ
+6
+java:S1659"!Declare "sum" on a separate line.(ü’±j
+@
+java:S1197"*Move the array designators [] to the type.(Ïüä‹
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(‰ÇÁª
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(éË¿ý
+1
+java:S3626G"Remove this redundant jump.(ûÁÝ…
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ì¿Ž
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ßç‹úÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(‡Ì­Øùÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ú·Ô
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(‘Žô¨ùÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ÕÙä
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(‘¿¥¡

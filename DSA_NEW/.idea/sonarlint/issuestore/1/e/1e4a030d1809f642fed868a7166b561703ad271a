@@ -1,0 +1,37 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ìËù
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÇçÍûÿÿÿÿ
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’»Â‚
+6
+java:S1659"!Declare "sum" on a separate line.(ü’±j
+@
+java:S1197"*Move the array designators [] to the type.(Ïüä‹
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÿÍ—¼ûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÿ±”¬
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(âÀéû
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+6
+java:S1659G"!Declare "sum" on a separate line.(ü’±j
+@
+java:S1197E"*Move the array designators [] to the type.(Ïüä‹
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¼½¶»ûÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(­…º’şÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ìËù
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÇçÍûÿÿÿÿ
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’»Â‚
+6
+java:S1659"!Declare "sum" on a separate line.(ü’±j
+@
+java:S1197"*Move the array designators [] to the type.(Ïüä‹
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÿÍ—¼ûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÿ±”¬
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(âÀéû
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+6
+java:S1659G"!Declare "sum" on a separate line.(ü’±j
+@
+java:S1197E"*Move the array designators [] to the type.(Ïüä‹
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(¼½¶»ûÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(­…º’şÿÿÿÿ
