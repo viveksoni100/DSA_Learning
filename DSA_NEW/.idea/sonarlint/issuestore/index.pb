@@ -41,3 +41,7 @@ F
 src/trie/TrieMain.java,e/f/ef988307d7cc48b149d631a7fa4a4f262f65f108
 B
 src/trie/Trie.java,2/9/2977742ccff430bea5198d416b210efa6d34b65c
+[
++src/searching/algorithms/SearchingMain.java,4/a/4af77d41e0743283535ab68e3d57d361a9c10a5b
+W
+'src/searching/algorithms/Searching.java,4/7/472f9331109eacd31bcdaf32a912142cdfece387

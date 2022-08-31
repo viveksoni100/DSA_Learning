@@ -13,9 +13,9 @@ public class Graph {
         adjacencyMatrix = new int[nodeList.size()][nodeList.size()];
     }
 
-    public void addUndirectedEdge(int i, int j) {
-        adjacencyMatrix[i][j] = 1;
-        adjacencyMatrix[j][i] = 1;
+    public void addUndirectedEdge(int source, int destination) {
+        adjacencyMatrix[source][destination] = 1;
+        adjacencyMatrix[destination][source] = 1;
     }
 
     public String toString() {
@@ -100,5 +100,58 @@ public class Graph {
         }
     }
 
+    //  Topological Sort
+    public void addDirectedEdge(int source, int destination) {
+        adjacencyMatrix[source][destination] = 1;
+    }
 
+    void topologicalVisit(GraphNode node, Stack<GraphNode> stack) {
+        ArrayList<GraphNode> neighbors = getNeighbors(node);
+        for (GraphNode neighbor : neighbors) {
+            if (!neighbor.isVisited) {
+                topologicalVisit(neighbor, stack);
+            }
+        }
+        node.isVisited = true;
+        stack.push(node);
+    }
+
+    void topologicalSort() {
+        Stack<GraphNode> stack = new Stack<>();
+        for (GraphNode node : nodeList) {
+            if (!node.isVisited) {
+                topologicalVisit(node, stack);
+            }
+        }
+        while (!stack.isEmpty()) {
+            System.out.print(stack.pop().name + " ");
+        }
+    }
+
+    public static void pathPrint(GraphNode node) {
+        if (node.parent != null) {
+            pathPrint(node.parent);
+        }
+        System.out.print(node.name + " ");
+    }
+
+    public void BFSForSSSPP(GraphNode node) {
+        LinkedList<GraphNode> queue = new LinkedList<>();
+        queue.add(node);
+        while (!queue.isEmpty()) {
+            GraphNode currentNode = queue.remove(0);
+            currentNode.isVisited = true;
+            System.out.print("Printing path for node " + currentNode.name + ": ");
+            pathPrint(currentNode);
+            System.out.println();
+            ArrayList<GraphNode> neighbors = getNeighbors(currentNode);
+            for (GraphNode neighbor : neighbors) {
+                if (!neighbor.isVisited) {
+                    queue.add(neighbor);
+                    neighbor.isVisited = true;
+                    neighbor.parent = currentNode;
+                }
+            }
+        }
+    }
 }
