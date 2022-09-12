@@ -1,6 +1,4 @@
-package krushkal.algo;
-
-import krushkal.algo.WeightedNode;
+package krushkal.n.prims.algo;
 
 import java.util.ArrayList;
 

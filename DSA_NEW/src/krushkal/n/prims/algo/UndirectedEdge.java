@@ -1,4 +1,4 @@
-package krushkal.algo;
+package krushkal.n.prims.algo;
 
 public class UndirectedEdge {
 
