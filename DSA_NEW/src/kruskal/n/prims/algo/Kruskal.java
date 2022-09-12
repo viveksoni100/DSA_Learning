@@ -1,4 +1,4 @@
-package krushkal.n.prims.algo;
+package kruskal.n.prims.algo;
 
 import java.util.*;
 
