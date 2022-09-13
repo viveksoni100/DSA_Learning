@@ -1,0 +1,11 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ëüû
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹©úe
+~
+java:S1319	"hThe type of "nodeList" should be an interface such as "List" rather than the implementation "ArrayList".(Ì×Œ
+>
+java:S1604"(Make this anonymous inner class a lambda(ƒ’Òõ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¸œ‘Å
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¸ÿÚâþÿÿÿÿ

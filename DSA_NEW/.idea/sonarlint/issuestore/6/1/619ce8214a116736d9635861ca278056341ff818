@@ -1,0 +1,20 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßÒ
+o
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç—Šæ
+ƒ
+java:S1319	"hThe type of "nodeList" should be an interface such as "List" rather than the implementation "ArrayList".(ÓÚøÿÿÿÿ
+k
+java:S1149B"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ïèñŞùÿÿÿÿ
+f
+java:S1149`"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(±Ôòá
+k
+java:S1149k"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ïèñŞùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(øûçàøÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(øûçàøÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(äû“ñÿÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(Ï¥Å®şÿÿÿÿ
+h	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êõŠçûÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(Ä­æœùÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

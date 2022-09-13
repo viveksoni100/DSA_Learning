@@ -1,0 +1,12 @@
+
+ƒ
+java:S1319"hThe type of "nodeList" should be an interface such as "List" rather than the implementation "ArrayList".(ÓÚøÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹è¢¶ùÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹è¢¶ùÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¹è¢¶ùÿÿÿÿ
+@
+java:S3010"%Remove this assignment of "nodeList".(£¿ß²ıÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(£¿ß²ıÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßåÁ‘

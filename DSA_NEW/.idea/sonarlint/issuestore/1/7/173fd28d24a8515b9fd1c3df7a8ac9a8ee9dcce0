@@ -1,0 +1,9 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ëüû
+J
+java:S1066#"/Merge this if statement with the enclosing one.(ˆ€Ø¯ûÿÿÿÿ
+ƒ
+java:S1319"hThe type of "nodeList" should be an interface such as "List" rather than the implementation "ArrayList".(‹ëœ„ÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¡Öƒ£ûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¸ÿÚâþÿÿÿÿ
